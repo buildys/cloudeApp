@@ -6,11 +6,13 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"autoAudits": false,
+		"nodeModules": true
 	},
-	"appid": "wx7dcbc80848bfff3c",
-	"projectname": "cApp",
-	"libVersion": "2.2.5",
+	"appid": "wxde7695077c052547",
+	"projectname": "foxEars",
+	"libVersion": "2.4.2",
 	"condition": {
 		"search": {
 			"current": -1,
